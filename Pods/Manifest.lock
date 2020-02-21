@@ -1,0 +1,22 @@
+PODS:
+  - InteractiveSideMenu (2.3)
+  - SDWebImage (5.5.2):
+    - SDWebImage/Core (= 5.5.2)
+  - SDWebImage/Core (5.5.2)
+
+DEPENDENCIES:
+  - InteractiveSideMenu
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - InteractiveSideMenu
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  InteractiveSideMenu: d503a508c6d62a4d5d4372d9fb9e1795637a8e45
+  SDWebImage: 4d5c027c935438f341ed33dbac53ff9f479922ca
+
+PODFILE CHECKSUM: b894d9a35d3520ee83b2b35dbe6a7b4c78f9bb66
+
+COCOAPODS: 1.8.4
